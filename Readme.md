@@ -12,13 +12,3 @@ install node Modules (npm install)
 1. Sass
 2. Scss
 3. Vite
-
-Build Deployable file (npm run build)
-
-Deploying on Surge.sh
-(npm install --global surge)
-
-surge
-
-
-
